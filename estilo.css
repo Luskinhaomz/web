@@ -1,0 +1,75 @@
+#container{
+  display: flex;
+  width: 1400px;
+  height: 100vh;
+  margin: auto;
+  border-top: solid 10px black;
+  border-bottom: solid 10px black;
+}
+#left{
+  background-color: #d9d9d9;
+  width: 500px;
+  height: 100vh;
+  padding-left: 70px;
+  padding-bottom: 1px;
+}
+#right{
+  background-color: white;
+  width: 900px;
+  height: 100vh;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+#info{
+  padding-left: 70px;
+}
+
+/*#principal{
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-size: 30px;
+  font-family: "Ruda", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+}
+*/
+
+#contatodiv{
+  font-size: 18px;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+  margin: 2px;
+}
+#ctt{
+  font-size: 18px;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+  margin: 2px;
+
+}
+
+#nome{
+  font-size: 80px;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+  margin: 2px;
+}
+
+#pt1{
+padding: 10px;
+}
+
+#pt2{
+  padding: 10px;
+}
+
+#foto{
+  padding: 25px;
+}
